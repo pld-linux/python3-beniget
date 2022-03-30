@@ -8,7 +8,7 @@ Summary:	Extract semantic information about static Python code
 Summary(pl.UTF-8):	Wydobywanie informacji semantycznych o statycznym kodzie w Pythonie
 Name:		python-beniget
 Version:	0.4.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/beniget/
